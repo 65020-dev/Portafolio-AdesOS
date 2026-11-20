@@ -449,7 +449,7 @@ export default function App() {
             className="px-2.5 py-1 border-2 font-pixel text-[10px] sm:text-xs flex items-center gap-2"
           >
             <img
-              src="/gengar.gif"
+              src="./gengar.gif"
               alt="AdesOS"
               className="w-4 h-4 pixelated object-contain"
             />
@@ -585,7 +585,7 @@ export default function App() {
                   className="w-28 h-28 border-2 flex items-center justify-center p-1"
                 >
                   <img
-                    src="/gengar.gif"
+                    src="./gengar.gif"
                     alt="Avatar Gengar"
                     className="w-full h-full object-contain pixelated"
                   />
