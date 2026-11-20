@@ -1,4 +1,4 @@
-# Proyecto: Portafolio - Portafolio
+# Proyecto: Portafolio
 
 ### Universidad Autónoma de Campeche
 ---
